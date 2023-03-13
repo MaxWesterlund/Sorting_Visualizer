@@ -41,8 +41,8 @@ def bubble_sort!(arr, index, is_sorted)
     end
 end
 
-max = 20
-size = 20
+max = 100
+size = 640
 
 rects = [size]
 
